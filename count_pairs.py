@@ -1,17 +1,12 @@
-
-dna = 'ACTGCTATCCATT'
-pair = 'AT'
-
-i = 0
-j = 0
-
 def count_pairs(dna, pair):
-    while j < len(dna):
-        if dna(j) == pair:
-            i = i + 1
-        pair = pair + 1
-    return i
+    pos = 0;
+    n = 0;
+    while (pos < len(dna)-1):
+        if ((dna[pos] == pair[0]) and (dna[pos+1] == pair[1])):
+            n = n +1
+        pos = pos + 1
+    return n
 
-print " AT appears 2 times in the sequence" #could not get the program to print i for whatever reason. The work should all work, but printing i wasn't working. 
+print count_pairs('ACTGCTATCCATT', 'AT')
 
 name = raw_input('')
