@@ -2,17 +2,17 @@
 
  [![License](http://img.shields.io/badge/license-MIT-blue.svg)](http://en.wikipedia.org/wiki/MIT_License)
 
-**Author:** _\<your name\>_
+**Author:** _\<Ryan Abouchedid\>_
 
-**Due date:** _\<date\>_
+**Due date:** _\<3/18/2016\>_
 
 ## Description
 
-_\<Give a description of the assignment here. Often this will be copied from the text.\>_
+_\<The assignment was to do the problems in the instructions, as well as problems from the textbook. The ones in the instructions dealt with printing out sequences. And the ones in the textbook dealt with various topics.\>_
 
 ## What I Learned from This
 
-_\<Explain what you learned from this assignment. This should be in your own words.\>_
+_\<I learned how to use loops to get designs and sequences through numbers plugged in to the program.\>_
 
 ## Honor Pledge
 
@@ -23,4 +23,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-_\<your name\>_
+_\<Ryan Abouchedid\>_

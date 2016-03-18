@@ -25,10 +25,13 @@ Define `histogram()`, a procedure that takes a list of positive integers and pri
 *************
 *****
 ```
+Call it histogram1.py
 
 ### Length of an integer
 
 Define a function `digits(n)` that calculates the number of digits (plus the sign for negative numbers) in an integer. For example `digits(521)` should return `3`; `digits(-4530)` should return `5`.
+
+Call it digits.py
 
 ### Enhanced histogram
 
@@ -42,6 +45,9 @@ Using the `digits(n)` function you have written to improve the histogram procedu
 13 | *************
  5 | *****
 ```
+
+Call it histogram2.py
+
 
 ## General
 
